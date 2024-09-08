@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "dgSpecHash": "qNqXSbI70++QZYlvBvxorPNZPbHd7q5fk+YfhT/VpYrR0ehpP1pQKbjxq4tTLgZTjPB0Ce1wNlFWjo5Rkn3kJg==",
+  "success": true,
+  "projectFilePath": "/home/user/src/SimpleSearch/Simple.Search.Rest.Api/Simple.Search.Rest.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/user/.nuget/packages/htmlagilitypack/1.11.45/htmlagilitypack.1.11.45.nupkg.sha512",
+    "/home/user/.nuget/packages/j2n/2.0.0/j2n.2.0.0.nupkg.sha512",
+    "/home/user/.nuget/packages/lucene.net/4.8.0-beta00016/lucene.net.4.8.0-beta00016.nupkg.sha512",
+    "/home/user/.nuget/packages/lucene.net.analysis.common/4.8.0-beta00016/lucene.net.analysis.common.4.8.0-beta00016.nupkg.sha512",
+    "/home/user/.nuget/packages/lucene.net.queries/4.8.0-beta00016/lucene.net.queries.4.8.0-beta00016.nupkg.sha512",
+    "/home/user/.nuget/packages/lucene.net.queryparser/4.8.0-beta00016/lucene.net.queryparser.4.8.0-beta00016.nupkg.sha512",
+    "/home/user/.nuget/packages/lucene.net.sandbox/4.8.0-beta00016/lucene.net.sandbox.4.8.0-beta00016.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.aspnetcore.openapi/8.0.5/microsoft.aspnetcore.openapi.8.0.5.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.extensions.configuration/6.0.1/microsoft.extensions.configuration.6.0.1.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.extensions.configuration.binder/3.1.0/microsoft.extensions.configuration.binder.3.1.0.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.0/microsoft.extensions.dependencyinjection.3.1.0.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.extensions.http/3.1.0/microsoft.extensions.http.3.1.0.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.extensions.logging/3.1.0/microsoft.extensions.logging.3.1.0.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.1/microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.extensions.objectpool/7.0.0/microsoft.extensions.objectpool.7.0.0.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.extensions.options/8.0.2/microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/user/.nuget/packages/prometheus-net/8.2.1/prometheus-net.8.2.1.nupkg.sha512",
+    "/home/user/.nuget/packages/prometheus-net.aspnetcore/8.2.1/prometheus-net.aspnetcore.8.2.1.nupkg.sha512",
+    "/home/user/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/user/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/user/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/user/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.137.0.32:5555/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

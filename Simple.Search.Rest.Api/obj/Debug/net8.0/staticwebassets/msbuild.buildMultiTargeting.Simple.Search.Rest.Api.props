@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Simple.Search.Rest.Api.props" />
+</Project>

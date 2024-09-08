@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Simple.Search.Rest.Api</name>
+    </assembly>
+    <members>
+        <member name="T:Simple.Search.Rest.Api.SearchController">
+            API to Search Data
+            CTOR
+        </member>
+        <member name="M:Simple.Search.Rest.Api.SearchController.#ctor(Simple.Search.ISearchService)">
+            API to Search Data
+            CTOR
+        </member>
+        <member name="M:Simple.Search.Rest.Api.SearchController.Search(System.String)">
+             <summary>
+             Search All Content
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 GET /search?q=searchText
+            
+             </remarks>
+             <response code="200">Returns the list of Search Results.</response>
+             <response code="404">Return a 404 if results are empty.</response>
+        </member>
+        <member name="M:Simple.Search.Rest.Api.SearchController.Index(Simple.Search.Core.SearchData)">
+             <summary>
+             Search All Content
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 GET /search?q=searchText
+            
+             </remarks>
+             <response code="200">Returns success.</response>
+        </member>
+    </members>
+</doc>
