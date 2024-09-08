@@ -2,6 +2,8 @@
 
 A simple search service to index data and retrieve using text analysers.
 
+Provides search functionality for .NET WebApi/MVC pages.
+
 The library circumvents resources necessary to run elastic search and instead provides limited data analysers for search.
 
 The library uses Lucene for .NET:
